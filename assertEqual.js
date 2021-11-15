@@ -21,3 +21,5 @@ assertEqual(10, 15);
 assertEqual('John', 'Walter');
 assertEqual('15', 15);
 assertEqual(sum(9, 6), 15);
+
+// random comments
