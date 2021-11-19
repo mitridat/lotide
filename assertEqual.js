@@ -1,7 +1,7 @@
 // FUNCTION IMPLEMENTATION
-const sum = function(a, b) {
-  return a + b;
-};
+// const sum = function(a, b) {
+//  return a + b;
+// };
   
 const assertEqual = function(actual, expected) {
   if (actual === expected) {
